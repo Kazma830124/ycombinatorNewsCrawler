@@ -1,0 +1,210 @@
+
+1. I Accidentally Deleted 7TB of Videos Before Going to Production (thevinter.com)
+link: https://blog.thevinter.com/posts/vimeo
+points: 222
+3 hours ago
+commentNum: 170
+
+
+2. Apple, Google and Microsoft Commit to Expanded Support for FIDO Standard (fidoalliance.org)
+link: https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/
+points: 33
+45 minutes ago
+commentNum: 24
+
+
+3. Modern Python Performance Considerations (lwn.net)
+link: https://lwn.net/SubscriberLink/893686/8978976335696804/
+points: 23
+1 hour ago
+commentNum: 1
+
+
+4. USB Cheat Sheet (fabiensanglard.net)
+link: https://fabiensanglard.net/usbcheat/index.html
+points: 160
+5 hours ago
+commentNum: 62
+
+
+5. How Crossrail was affected by the curvature of the Earth (2018) (ianvisits.co.uk)
+link: https://www.ianvisits.co.uk/articles/how-crossrail-was-affected-by-the-curvature-of-the-earth-24285/
+points: 53
+2 hours ago
+commentNum: 5
+
+
+6. Mechanical Watch (ciechanow.ski)
+link: https://ciechanow.ski/mechanical-watch/
+points: 2991
+22 hours ago
+commentNum: 349
+
+
+7. Teen mental health is plummeting and social media is a major contributing cause [pdf] (senate.gov)
+link: https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf
+points: 541
+12 hours ago
+commentNum: 637
+
+
+8. Heroku Security Notification (heroku.com)
+link: https://status.heroku.com/incidents/2413?updated
+points: 364
+10 hours ago
+commentNum: 114
+
+
+9. “Bambi” Is Even Bleaker Than You Thought (newyorker.com)
+link: https://www.newyorker.com/magazine/2022/01/24/bambi-is-even-bleaker-than-you-thought
+points: 66
+4 hours ago
+commentNum: 68
+
+
+10. Opvia (YC S20) Is Hiring Product Engineers in London (notion.so)
+link: https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc
+points: 0
+1 hour ago
+commentNum: 0
+
+
+11. JavaScript Containers (tinyclouds.org)
+link: https://tinyclouds.org/javascript_containers
+points: 68
+3 hours ago
+commentNum: 26
+
+
+12. V86: x86 virtualization in the browser, recompiling x86 to WASM on the fly (github.com/copy)
+link: https://github.com/copy/v86
+points: 134
+6 hours ago
+commentNum: 27
+
+
+13. The future will have to wait (2006) (longnow.org)
+link: https://longnow.org/essays/omega-glory/
+points: 62
+5 hours ago
+commentNum: 31
+
+
+14. OpenAlex: The Promising Alternative to Microsoft Academic Graph (smu.edu.sg)
+link: https://library.smu.edu.sg/topics-insights/openalex-promising-alternative-microsoft-academic-graph
+points: 31
+3 hours ago
+commentNum: 2
+
+
+15. Misusing TypeScript assertion functions for fun and profit (chriskrycho.com)
+link: https://v5.chriskrycho.com/journal/misusing-typescript-assertion-functions-for-fun-and-profit/
+points: 13
+1 hour ago
+commentNum: 0
+
+
+16. What game are you playing? (autodidacts.io)
+link: https://www.autodidacts.io/what-game-are-you-playing/
+points: 275
+13 hours ago
+commentNum: 145
+
+
+17. Nim Version 1.6.6 Released (nim-lang.org)
+link: https://nim-lang.org/blog/2022/05/05/version-166-released.html
+points: 83
+3 hours ago
+commentNum: 37
+
+
+18. Spinoza's Religion (apaonline.org)
+link: https://blog.apaonline.org/2022/03/11/philosophy-and-the-mirror-of-technology-spinozas-religion-interview-with-clare-carlisle/
+points: 14
+2 hours ago
+commentNum: 0
+
+
+19. The Gitlab Team Handbook (about.gitlab.com)
+link: https://about.gitlab.com/handbook/
+points: 85
+7 hours ago
+commentNum: 18
+
+
+20. Zero downtime migrations (kiranrao.ca)
+link: https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html
+points: 145
+9 hours ago
+commentNum: 30
+
+
+21. How to resurrect a coral reef (vox.com)
+link: https://www.vox.com/recode/23016412/coral-reef-restoration-climate-change
+points: 5
+1 hour ago
+commentNum: 0
+
+
+22. Craft CMS 4 Released (craftcms.com)
+link: https://craftcms.com/blog/craft-4
+points: 25
+3 hours ago
+commentNum: 10
+
+
+23. ‘I’m not a leak.’ Scientific careers aren’t a ‘pipeline,’: economists (science.org)
+link: https://www.science.org/content/article/i-m-absolutely-not-leak-scientific-careers-aren-t-pipeline-these-economists-say
+points: 4
+36 minutes ago
+commentNum: 0
+
+
+24. Show HN: MockRTC – a mock peer and MitM proxy library for WebRTC (github.com/httptoolkit)
+link: https://github.com/httptoolkit/mockrtc
+points: 9
+2 hours ago
+commentNum: 3
+
+
+25. The UX of Paid Journalism (builtformars.com)
+link: https://builtformars.com/case-studies/wsj
+points: 38
+6 hours ago
+commentNum: 17
+
+
+26. EBUG: The NHL's emergency backup goalie rule (whyisthisinteresting.substack.com)
+link: https://whyisthisinteresting.substack.com/p/the-ebug-edition
+points: 214
+15 hours ago
+commentNum: 78
+
+
+27. A 2000-year-old postcard (blogs.bl.uk)
+link: https://blogs.bl.uk/digitisedmanuscripts/2022/04/postcard.html
+points: 53
+8 hours ago
+commentNum: 2
+
+
+28. Cloud Cost Control: Best Practices (bestcloudplatform.com)
+link: https://bestcloudplatform.com/cloud-cost-control-best-practices/
+points: 27
+4 hours ago
+commentNum: 10
+
+
+29. Bunny Roundabout (rachel.blog)
+link: https://rachel.blog/2022/05/03/bunny-roundabout/
+points: 58
+7 hours ago
+commentNum: 46
+
+
+30. Broader Autism Phenotype: What does it mean to have just a hint of autism? (iancommunity.org)
+link: https://iancommunity.org/ssc/broad-autism-phenotype
+points: 40
+6 hours ago
+commentNum: 31
+
