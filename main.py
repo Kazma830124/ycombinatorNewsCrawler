@@ -47,7 +47,7 @@ newsList = list[Model]()
 for title in titleList:
     id = title.attrs["id"]
     titlelink = title.find(class_="titlelink").attrs["href"]
-    subInfoList = body.findAll(id=f"score_{id}") + body.findAll(href=f'item?id={id}')
+    subInfoList = body.findAll(class_="subtext", id=f"score_{id}") + body.findAll(class_="subtext", href=f'item?id={id}')
     points, agoTime, commentNum = fetchSubInfo(subInfoList)
     newsList.append(Model(title.text, id, titlelink, points, agoTime, commentNum))
 
@@ -55,7 +55,7 @@ with open("news.txt", "w", encoding="utf-8") as outFile:
     for news in newsList:
         outFile.writelines(news.formatOutput() + "\n")
     outFile.close()
-    
+
 if __name__ == "__main__":
     for news in newsList:
         print(news.formatOutput())

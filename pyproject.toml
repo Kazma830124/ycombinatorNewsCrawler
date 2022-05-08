@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "newscrawler"
+name = "ycombinatorNewsCrawler"
 version = "0.1.0"
 description = ""
 authors = ["kazma <komiya830124@gmail.com>"]
