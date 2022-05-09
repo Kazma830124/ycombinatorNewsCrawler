@@ -1,9 +1,10 @@
 class News:
-    def __init__(self, title, id, link, points, agoTime, commentsNum):
+    def __init__(self, title, id, link, points, agoTime, commentsNum, user=""):
         self.title = title
         self.id = id
         self.link = link
         self.points = points
+        self.user = user
         self.agoTime = agoTime
         self.commentsNum = commentsNum
 
