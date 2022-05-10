@@ -34,13 +34,14 @@ def _get_news(amount: int, news_type: str) -> list[News]:
             age = sub_info.find(class_="age").attrs["title"]
             # use \s here there is \xa0 non-breaking space in between
             comment_info = sub_info.find(string=compile(r"\d+\scomment"))
-            comment_count = int(comment_info.split()[
-                0]) if comment_info is not None else 0
+            if comment_info is not None:
+                comment_count = int(comment_info.split()[0])
+            else:
+                comment_count = 0
 
             username = sub_info.find(class_="hnuser").text
 
-            result.append(News(news_title, news_id,
-                               news_link, point, username, age, comment_count))
+            result.append(News(news_title, news_id, news_link, point, username, age, comment_count))
 
     return result
 
