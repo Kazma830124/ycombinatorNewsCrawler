@@ -1,3 +1,6 @@
 .venv
 
 news.txt
+__pycache__/
+*.py[cod]
+*$py.class

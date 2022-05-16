@@ -10,12 +10,12 @@ class News:
 
     def formatOutput(self):
         # return '{}\nlink: {}\npoints: {}\n{}\ncommentNum: {}\n'.format(self.news_title, self.news_link, self.points, self.post_time, self.comments_count)
-        return f"""title:{self.news_title}
-link:{self.news_link}
-point:{self.points}
-user:{self.user}
-post time:{self.post_time}
-comments count:{self.comments_count}
+        return f"""title: {self.news_title}
+link: {self.news_link}
+point: {self.points}
+user: {self.user}
+post time: {self.post_time}
+comments count: {self.comments_count}
 """
 
     def __str__(self):
