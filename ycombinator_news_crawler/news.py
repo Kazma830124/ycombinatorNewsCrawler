@@ -1,4 +1,3 @@
-from contextlib import nullcontext
 from ycombinator_news_crawler.config import BASE_URL
 from ycombinator_news_crawler.model import News
 from datetime import date
