@@ -30,7 +30,7 @@ class User:
         self.about = about
 
     def formatOutput(self):
-        return f"username:{self.username}\ncreated:{self.created}\nkarma:{self.karma}\nabout:{self.about}"
+        return f"username: {self.username}\ncreated: {self.created}\nkarma: {self.karma}\nabout: {self.about}"
 
     def __str__(self):
         return self.formatOutput()
@@ -44,7 +44,7 @@ class Comment:
         self.content = content
 
     def formatOutput(self):
-        return f"comment_id:{self.comment_id}\nusername:{self.username}\ncreated:{self.created}\ncontent:{self.content}"
+        return f"comment_id: {self.comment_id}\nusername: {self.username}\ncreated: {self.created}\ncontent: {self.content}"
 
     def __str__(self):
         return self.formatOutput()
