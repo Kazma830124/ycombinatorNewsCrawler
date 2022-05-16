@@ -20,3 +20,31 @@ comments count:{self.comments_count}
 
     def __str__(self):
         return self.formatOutput()
+
+
+class User:
+    def __init__(self, username, created, karma, about):
+        self.username = username
+        self.created = created
+        self.karma = karma
+        self.about = about
+
+    def formatOutput(self):
+        return f"username: {self.username}\ncreated: {self.created}\nkarma: {self.karma}\nabout: {self.about}"
+
+    def __str__(self):
+        return self.formatOutput()
+
+
+class Comment:
+    def __init__(self, comment_id, username, created, content):
+        self.comment_id = comment_id
+        self.username = username
+        self.created = created
+        self.content = content
+
+    def formatOutput(self):
+        return f"comment_id: {self.comment_id}\nusername: {self.username}\ncreated: {self.created}\ncontent: {self.content}"
+
+    def __str__(self):
+        return self.formatOutput()
